@@ -1,0 +1,2 @@
+num = "armando"
+print(num)
