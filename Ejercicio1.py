@@ -1,2 +1,3 @@
-num = "armando"
-print(num)
+nombre = "alexander"
+print("Hola " + nombre)
+print("Hola", nombre)
